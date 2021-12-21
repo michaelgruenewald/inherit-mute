@@ -2,7 +2,7 @@
   "description": "Makes new tabs inherit the mute state of the opener",
   "manifest_version": 2,
   "name": "Inherit Mute",
-  "version": "1.0",
+  "version": "1.0.1",
   "homepage_url": "https://github.com/michaelgruenewald/inherit-mute",
   "background": {
     "scripts": [
